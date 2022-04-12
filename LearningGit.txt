@@ -13,3 +13,4 @@ git config --global user.email="email given git site"
 cd <proj dir>
 git add remote origin "Copy the link from code button on git site"
 git push origin
+Changing Learninggit.txt file.......
