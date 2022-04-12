@@ -1,0 +1,15 @@
+git clone <url to git >
+git pull
+cd <dir>
+after making chnages
+git add .
+git commit -m "Message to describe commit"
+git push origin <branchname>
+
+To create new project in local and then push to remote
+mkdir <projdirname>
+git config --global user.name="git username"
+git config --global user.email="email given git site"
+cd <proj dir>
+git add remote origin "Copy the link from code button on git site"
+git push origin
